@@ -60,7 +60,7 @@ module exp6(S,R,clk,Q,Qbar);
  end 
  endmodule
 ```
-Developed by: OBELESH R RegisterNumber: 24901123
+Developed by: gokulan R RegisterNumber: 24900991
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
